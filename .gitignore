@@ -1,0 +1,5 @@
+
+temp/
+venv/
+start.sh
+__pycache__/
